@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "emberlightsmp.sdlf.fun",
+    "ip": "emberlightsmp.seedloaf.gg",
     "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages": []
     },
     "chat-log": true,
     "auto-reconnect": true,
